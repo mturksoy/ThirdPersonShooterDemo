@@ -8,7 +8,6 @@
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Map/Main.umap",
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/BP_Character.uasset",
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/Character_BlendSpace1D.uasset",
-				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/BPC_Character.uasset",
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/GM_Gamemode.uasset",
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Jumping.uasset",
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1001_Diffuse.uasset",
@@ -32,7 +31,10 @@
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Jumping_Down.uasset",
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Jumping_Up.uasset",
 				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Walking.uasset",
-				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/ThirdPersonCharacter.uasset"
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/UI/WB_Health.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Standing_React_Death_Backward.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/BPC_Character.uasset"
 			]
 		}
 	]
