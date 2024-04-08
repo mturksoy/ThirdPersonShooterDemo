@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Map/Main.umap",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/BP_Character.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/Character_BlendSpace1D.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/BPC_Character.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/GM_Gamemode.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Jumping.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1001_Diffuse.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1001_Emissive.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1001_Glossiness.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1001_Normal.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1001_Specular.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1002_Diffuse.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1002_Emissive.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1002_Glossiness.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1002_Normal.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_1002_Specular.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_Body.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_body1.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_nonPBR.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_nonPBR_PhysicsAsset.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Ch44_nonPBR_Skeleton.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Falling_Idle.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Fast_Run.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Idle.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Jumping_Down.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Jumping_Up.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Animations/Walking.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
