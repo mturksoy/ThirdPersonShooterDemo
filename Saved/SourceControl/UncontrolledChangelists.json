@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Character/Blueprints/BP_Characterrrr.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/HomingProjectile/BP_HomingProjectile.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/Map/Main.umap",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/MilitaryWeapSilver/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire01.uasset",
+				"C:/Dev/Unreal Projects/GamegineDemo/Content/MilitaryWeapSilver/Sound/RocketLauncher/Wavs/RocketLauncherA_Fire_ST01.uasset"
+			]
+		}
+	]
+}
